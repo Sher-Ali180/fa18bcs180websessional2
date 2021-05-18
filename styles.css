@@ -1,0 +1,13 @@
+.comingdata{
+    border-radius: 5px;
+    border-color: black;
+    border-style:solid;
+    background-color: aqua;
+    
+}
+#btn1{
+    float: left;
+}
+#btn2{
+    float:right;
+}
